@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Background">#9BD0D3</color>
+    <color name="Button">#112B60</color>
+    <color name="Textcolorhighlight">#BC4A4A</color>
+    <color name="Textcolor">#9E3F3F</color>
+    <color name="Textview">#3F51B5</color>
+    <color name="Button1">#6E2525</color>
+    <color name="Textview2">#040303</color>
+    <color name="Textview3">#191111</color>
+    <color name="Button3">#112465</color>
+    <color name="Textview4">#0B0A0A</color>
+    <color name="Textview5">#121111</color>
+    <color name="Textview6">#22349C</color>
+    <color name="Button4">#880D0D</color>
+    <color name="Button5">#041745</color>
+    <color name="Button7">#0E0E0E</color>
+    <color name="Button8">#11238A</color>
+    <color name="Button9">#050505</color>
+    <color name="Button10">#092263</color>
+
+</resources>

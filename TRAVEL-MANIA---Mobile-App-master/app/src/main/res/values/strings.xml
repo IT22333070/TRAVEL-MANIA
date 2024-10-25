@@ -1,0 +1,20 @@
+
+    <resources>
+        <string name="app_name">MAD Lab 02</string>
+        <string name="hntname">Email</string>
+        <string name="hntpassword"> password</string>
+        <string name="btnlogin">Login</string>
+        <string name="btnsignup">Sign up</string>
+        <string name="btnsignup2">sign up</string>
+        <string name="btnregister">Register now</string>
+        <string name="btncheck">checkout</string>
+        <string name="btnp">Procceed</string>
+        <string name="btndownload">Download Tickect</string>
+        <string name="btnjoin">Join this tour</string>
+        <string name="btnlogout">Logout</string>
+        <string name="btnbook">Book Now</string>
+
+    </resources>
+
+
+
